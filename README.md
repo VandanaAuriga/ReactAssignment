@@ -15,7 +15,7 @@ Assignment project in React Native using typescript
 
 - Type command $cd ios to go to iOS folder and than do $pod install.
 - Type command $react-native run-ios
-
+# For otp a default value 1111 is being set. 
 # Note:-
 
 If react native environment is not set, do the following before above steps:-
